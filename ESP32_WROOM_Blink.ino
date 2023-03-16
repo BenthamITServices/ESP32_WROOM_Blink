@@ -1,5 +1,5 @@
 /*
-  Blink Built-in LED on Digital Pin 2  
+  Blink Built-in LED on Digital Pin 2
 */
 #define LED_BUILTIN 2
 
